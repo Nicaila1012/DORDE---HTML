@@ -1,0 +1,13 @@
+.bx{
+    height: 200px;
+    width: 200px;
+    background-color: #001eff;
+    font-size: 40pt;
+}
+body {
+    min-height: 800px;
+    border: 8px solid #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
